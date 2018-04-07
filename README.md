@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title> ETL es lo máximo!!! </title>
+ETL es lo máximo!!!
 </head>
 
 <body bgcolor="white" text="blue">
