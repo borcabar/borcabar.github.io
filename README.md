@@ -8,7 +8,7 @@ ETL es lo máximo!!!
 
 <body bgcolor="white" text="blue">
 
-<h1> Gabi, ¿que dices que mostremos los resultados de nuestra ETL aqui? </h1>
+<h1> Gabi, ¿que dices que mostremos los resultados de nuestra ETL en una página web? </h1>
 
 <h2> No sería chulo??? </h2>
 
