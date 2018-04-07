@@ -12,9 +12,15 @@ ETL es lo máximo!!!
 
 <h2> No sería chulo??? </h2>
 
-La idea es mostrar aqui el resultado de la ETL, para quedar como unos reyes frente a Toreto. Que dices Gabi???
+<p>
+La idea es mostrar aqui el resultado de la ETL, para quedar como unos reyes frente a Toreto. Que dices Gabi??? Nos puede costar un dinero.... menos de 1€ ;)
+</p>
 
-Nos puede costar un dinero.... menos de 1€ ;)
+<p>
+  Necesitamos conseguir otro nombre de página web... aprovechemos e inventemos uno que mole, para inspirar que el proyecto del curso lo montemos en la página que hagamos. Hablamos luego
+</p>
+
+
 
 </body>
 
