@@ -1,27 +1,24 @@
 # borcabar.github.io
 
-<html>
 
+<!doctype html>
+
+<html lang="en">
 <head>
-ETL es lo máximo!!!
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
 </head>
 
-<body bgcolor="white" text="blue">
-
-<h1> Gabi, ¿que dices que mostremos los resultados de nuestra ETL en una página web? </h1>
-
-<h2> No sería chulo??? </h2>
-
-<p>
-La idea es mostrar aqui el resultado de la ETL, para quedar como unos reyes frente a Toreto. Que dices Gabi??? Nos puede costar un dinero.... menos de 1€ ;)
-</p>
-
-<p>
-  Necesitamos conseguir otro nombre de página web... aprovechemos e inventemos uno que mole, para inspirar que el proyecto del curso lo montemos en la página que hagamos. Hablamos luego
-</p>
-
-
-
+<body>
+  <script src="js/scripts.js"></script>
 </body>
-
 </html>
