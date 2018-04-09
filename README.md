@@ -1,6 +1,5 @@
 # borcabar.github.io
 
-
 <!doctype html>
 
 <html lang="en">
