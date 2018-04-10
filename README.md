@@ -6,7 +6,7 @@
 Página de Boris
 </head>
 
-<body bgcolor="white" text="blue">
+<body bgcolor="white" text="black">
 
 <h1> Aqui pondré resultados que me interesan a nivel profesional </h1>
 
