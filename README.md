@@ -1,23 +1,27 @@
 # borcabar.github.io
 
-<!doctype html>
+<html>
 
-<html lang="en">
 <head>
-  <meta charset="utf-8">
-
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
-  <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-  <![endif]-->
+Página de Boris
 </head>
 
-<body>
-  <script src="js/scripts.js"></script>
+<body bgcolor="white" text="blue">
+
+<h1> Aqui pondré resultados que me interesan a nivel profesional </h1>
+
+<h2> Con las posibilidades y limitaciones de github </h2>
+
+<p>
+Agregar una sección con mi CV, algunos logros, subir trabajos, intereses, canal de youtube
+</p>
+
+<p>
+Y por supuesto, ser un laboratorio para el aprendizaje de desarrollo back-end en páginas web, el DNS y dems elementos relacionados con internet.
+</p>
+
+
+
 </body>
+
 </html>
