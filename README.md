@@ -2,13 +2,13 @@
 
 <html>
 
-<img src="borcabar.github.io/_DSC2246_short_short.png" alt="my_photo" style="width: 50%; height: 50%"> 
-
 <head>
 Página de Boris
 </head>
 
 <body bgcolor="white" text="black">
+
+<img src="borcabar.github.io/_DSC2246_short_short.png" alt="my_photo" style="width: 50%; height: 50%"> 
 
 <h1 text="blue"> Boris Cabrera Barandica </h1>
 
