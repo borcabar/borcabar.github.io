@@ -25,6 +25,10 @@ Agregar una sección con mi CV, algunos logros, subir trabajos, intereses, canal
 <p>
 This is my <a href="borcabar.github.io/CV_BorisCabrera.pdf" download>CV</a> in pdf.
 </p>
+
+<p>
+  About social media, these are my <a href="https://www.linkedin.com/in/boris-cabrera-barandica-8826a72a/?locale=en_US">linkedin</a>, and my <a href="https://github.com/borcabar">github</a>.  
+</p>
   
 <p>
 Y por supuesto, ser un laboratorio para el aprendizaje de desarrollo back-end en páginas web, el DNS y dems elementos relacionados con internet.
