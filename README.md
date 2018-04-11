@@ -10,7 +10,7 @@ Página de Boris
 
 <h1 text="blue"> Boris Cabrera Barandica </h1>
 
-<img src=" borcabar.github.io/photo.jpg" alt="my_photo" style="width: 50%; height: 50%"> 
+<img src=" borcabar.github.io/photo.jpg" alt="my_photo" style="width: 50%; height: 50%">
 
 <h2> Abstract </h2>
 
