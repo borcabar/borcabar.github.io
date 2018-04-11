@@ -8,9 +8,9 @@ Página de Boris
 
 <body bgcolor="white" text="black">
 
-<img src="borcabar.github.io/_DSC2246_short_short.jpg" alt="my_photo" style="width: 50%; height: 50%"> 
-
 <h1 text="blue"> Boris Cabrera Barandica </h1>
+
+<img src="borcabar.github.io/_DSC2246_short_short.jpg" alt="my_photo" style="width: 50%; height: 50%"> 
 
 <h2> Abstract </h2>
 
