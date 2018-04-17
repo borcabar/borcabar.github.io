@@ -19,7 +19,7 @@ Página de Boris
 </p>
 
 <p>
-Agregar una sección con mi CV, algunos logros, subir trabajos, intereses, canal de youtube
+Add a section with my personal and professional information; the youtube channel and everything i deem important.
 </p>
 
 <p>
